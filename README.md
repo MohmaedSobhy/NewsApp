@@ -1,5 +1,5 @@
 # NewsApp
-you can see the project : https://youtu.be/Mn9XG3rSnjc
+you can see the project : https://youtu.be/Mn9XG3rSnjc<br>
 android studio app (java)
 
 
